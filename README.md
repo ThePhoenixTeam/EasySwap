@@ -1,2 +1,16 @@
 # EasySwap
-EasySwap makes it easy to swap on SushiSwap
+
+Swaps WETH to DAI on SushiSwap and vice versa
+
+## Install dependencies
+
+    npm install
+	
+## Deploy to ropsten testnet
+
+    npx truffle migrate --network ropsten
+
+# test
+
+    truffle test
+	
